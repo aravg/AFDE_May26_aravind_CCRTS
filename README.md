@@ -303,6 +303,12 @@ python etl/etl_pipeline.py
 ### Swagger API Schemas
 ![Swagger API Schemas](screenshots/swagger-api-schemas.png)
 
+### ETL Analytics Dashboard (Phase 2)
+![ETL Analytics Dashboard](screenshots/etl-analytics-dashboard.png)
+
+### ETL Management Pipeline (Phase 2)
+![ETL Management Pipeline](screenshots/etl-management-pipeline.png)
+
 ---
 
 ## Demo Credentials
